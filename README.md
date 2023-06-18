@@ -1,5 +1,5 @@
 # MS-DOS Mode
-Un programa que te modifica el registro para arrancar CMD en la pantalla de inicio. Inspirado por @Endermanch
+Un programa que te modifica el registro para arrancar CMD en la pantalla de inicio. Inspirado por @Endermanch.
 MS-DOS Mode
 Modo de Windows
 
