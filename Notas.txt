@@ -1,0 +1,5 @@
+¡Gracias por usar MS-DOS!
+
+Este programa está bajo GNU-GPLv3
+
+https://github.com/danucosukosuko
